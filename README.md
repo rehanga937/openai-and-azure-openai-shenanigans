@@ -1,6 +1,8 @@
 # openai-and-azure-openai-shenanigans
 code examples and notes on how to get the same functionality when using azure resources with openai sdks
 
+Added a related word doc I had made to this repo as well.
+
 # Create Response API capable client from azure openai old endpoint
 Old endpoint example - "https://xxxxxx.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2025-01-01-preview". Notice it says chat/completions
 But we must only enter "https://xxxxxx.openai.azure.com"
